@@ -1,4 +1,5 @@
 {
+	"diagnostic.refreshOnInsertMode": false,
 	"suggest.noselect": false,
 	"coc.preferences.formatOnSaveFiletypes": [
 		"javascript",
@@ -12,5 +13,21 @@
 	"eslint.format.enable": true,
 	"eslint.autoFixOnSave": true,
 	"snippets.userSnippetsDirectory": "~/.config/nvim/snips",
-  "java.jdt.ls.vmargs": "-javaagent:/home/nnd4ll/.config/nvim/lombok/lombok.jar"
+	"java.jdt.ls.vmargs": "-javaagent:/home/nnd4ll/.config/nvim/lombok/lombok.jar",
+	"coc.preferences.currentFunctionSymbolAutoUpdate": true,
+	"html-css-support.styleSheets": [
+		"https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css",
+		"/style.css",
+		"style.css"
+	],
+	"html-css-support.enabledLanguages": [
+		"html",
+		"vue",
+		"blade",
+		"htmldjango",
+		"typescriptreact",
+		"javascriptreact"
+  ],
+  "svelte.enable-ts-plugin": true,
+  "snippets.ultisnips.pythonPrompt": false
 }
