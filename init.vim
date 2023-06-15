@@ -155,7 +155,8 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 " Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'johnstef99/vim-nerdtree-syntax-highlight'
 "Icon Folder
-Plug 'ryanoasis/vim-devicons'
+" Plug 'ryanoasis/vim-devicons'
+Plug 'Deftera186/vim-devicons'
 "==============================================================
 
 "==============================================================
